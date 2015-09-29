@@ -2,7 +2,7 @@
 Valve patched xpad driver
 
 # Purpose
-Rebuild patch xpad driver to maintain a fresh up to date package for non-SteamOS users.
+Rebuild patched xpad driver to maintain a fresh up to date package for non-SteamOS users.
 	 
 To build manually:
 ======================
