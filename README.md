@@ -7,12 +7,7 @@ Rebuild patch xpad driver to maintain a fresh up to date package for non-SteamOS
 To build manually:
 ======================
 
-cd source/
-mkdir build
-cd build
-cmake ..
-make
-sudo make install
+TODO
 
 # Source
-https://github.com/ValveSoftware/steamos_kernel
+https://raw.github.com/ValveSoftware/steamos_kernel/$COMMIT/drivers/input/joystick/xpad.c
