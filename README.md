@@ -13,3 +13,6 @@ cd build
 cmake ..
 make
 sudo make install
+
+# Source
+https://github.com/ValveSoftware/steamos_kernel
