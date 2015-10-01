@@ -3,7 +3,7 @@ Section: contrib/kernel
 Priority: extra
 Maintainer: pkgmaintainer
 Build-Depends: debhelper (>= 8), dkms
-Standards-Version: 3.9.6
+Standards-Version: 3.9.5
 
 Package: steamos-xpad-dkms
 Architecture: all
